@@ -1,0 +1,4 @@
+vector a classe vector do java é uma estrutura de dados que implementa uma lista de dados que cresce dinamicamente 
+array list o array list possui as mesmas caracteristicas do vector porem sua estrutura foi melhorada sendo mais performaticoque a classe vector 
+limked list a estrutura do linked list garante mais segurança no encadeamento de dados 
+hash mapum hash map em java e uma estrutura de dados que armazena pares de chave valor onde cada chave e unica
